@@ -2,6 +2,11 @@
 title: "Tilde"
 date: "2026-09-10" 
 description: "Tilde is the anual mentorship event by Homebrew"
+previewimage: "/images/fireside.jpg"
+layout: "milestone"
+collections:
+
+milestones
 ---
 
 # What is Tilde ?

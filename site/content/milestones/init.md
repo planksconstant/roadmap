@@ -2,6 +2,11 @@
 title: "Homebrew FOSS by HackerSpace PESUECC"
 date: "2021-01-01" 
 description: "Homebrew is the FOSS wing of HSP formerly known as Hackerspace based at PES University, Electronic City Campus."
+previewimage: "/images/fireside.jpg"
+layout: "milestone"
+collections:
+
+milestones
 ---
 
 # What was the idea behind Homebrew?

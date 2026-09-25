@@ -2,6 +2,11 @@
 title: "Foss Talk 3.0"
 date: "2026-04-11" 
 description: "An exciting meetup where industry experts share their insights and experiences with open-source technologies!"
+previewimage: "/images/fosstalk3.webp"
+layout: "milestone"
+collections:
+
+milestones
 ---
 # Foss Talk 3.0
 FOSS Talks 3.0 is a curated event series where developers share deep dives into their projects, technical learnings, and experiences building in the FOSS ecosystem.

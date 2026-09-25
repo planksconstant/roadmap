@@ -2,6 +2,11 @@
 title: "Webring"
 date: "2026-09-10"
 description: "Webring is the collection of FOSS communities and sites deticated to open source software"
+previewimage: "/images/fireside.jpg"
+layout: "milestone"
+collections:
+
+milestones
 ---
 # What is Webring?
 A webring is a collection of websites linked together in a circular structure, allowing visitors to navigate from one site to the next. It's a way to discover and explore related communities and projects.
