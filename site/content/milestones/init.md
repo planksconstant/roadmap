@@ -6,7 +6,7 @@ previewimage: "/images/hb.jpg"
 layout: "milestone"
 collections:
 
-- milestones
+ - milestones
 ---
 
 # What was the idea behind Homebrew?

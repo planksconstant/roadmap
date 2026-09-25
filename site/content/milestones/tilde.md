@@ -6,7 +6,7 @@ previewimage: "/images/fireside.jpg"
 layout: "milestone"
 collections:
 
-- milestones
+ - milestones
 ---
 
 # What is Tilde ?

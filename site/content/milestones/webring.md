@@ -6,7 +6,7 @@ previewimage: "/images/fireside.jpg"
 layout: "milestone"
 collections:
 
-- milestones
+ - milestones
 ---
 # What is Webring?
 A webring is a collection of websites linked together in a circular structure, allowing visitors to navigate from one site to the next. It's a way to discover and explore related communities and projects.
